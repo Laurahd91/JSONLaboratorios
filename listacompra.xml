@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mercadona>
+    <direccion>Emilia Pardo Bazán 5</direccion>
+    <codigoPostal>28342</codigoPostal>
+    <coordenadas>
+        <norte>35°23'50.41</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>2°40'10.45</oeste>
+    </coordenadas>
+    <productos>
+        <pasteleria>
+            <producto>tarta de manzana</producto>
+            <marca>Hacendado</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>600</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <preVenta>6.77</preVenta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>false</comprado>
+        </pasteleria>
+        <pasteleria>
+            <producto>bizcocho de chocolate</producto>
+            <marca>Hacendado</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>350</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <preVenta>5.33</preVenta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>true</comprado>
+        </pasteleria>
+        <carniceria>
+            <producto>cinta de lomo</producto>
+            <marca>Hacendado</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>150</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <preVenta>2.45</preVenta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </carniceria>
+        <carniceria>
+            <producto>brochetas de pollo</producto>
+            <marca>Hacendado</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>pesado</formato>
+                <cantidad>1.75</cantidad>
+                <unidadMedida>kilo gramos</unidadMedida>
+            </informacion>
+            <preVenta>4.37</preVenta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>false</comprado>
+        </carniceria>
+    </productos>
+</Mercadona>
