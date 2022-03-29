@@ -1,0 +1,227 @@
+{
+    "Mercadona": [
+      {
+        "direccion": "Emilia Pardo Bazán 5",
+        "codigoPostal": 28342,
+        "coordenadas": "35°23'50.41\"N 2 40'10.45\"O\"",
+        "productos": [
+          {
+            "pastelería": [
+              {
+                "producto": "tarta de manzana",
+                "marca": "Hacendado",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 600,
+                  "unidadMedida": "gramos"
+                },
+                "preVenta": 6.77,
+                "perecedero": true,
+                "enOferta": true,
+                "comprado": false
+              },
+              {
+                "producto": "bizcocho de chocolate",
+                "marca": "Hacendado",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 350,
+                  "unidadMedida": "gramos"
+                },
+                "precioVta": 5.33,
+                "perecedero": true,
+                "enOferta": true,
+                "comprado": true
+              }
+            ],
+            "carniceria": [
+              {
+                "producto": "cinta de lomo",
+                "marca": "Hacendado",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 150,
+                  "unidadMedida": "gramos"
+                },
+                "precioVta": 2.45,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": true
+              },
+              {
+                "producto": "brochetas de pollo",
+                "marca": "Hacendado",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "pesado",
+                  "cantidad": 1.75,
+                  "unidadMedida": "kilos"
+                },
+                "precioVta": 4.37,
+                "perecedero": true,
+                "enOferta": true,
+                "comprado": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Ahorramas": [
+      {
+        "direccion": "Emilia Pardo Bazán 3",
+        "codigoPostal": 28342,
+        "coordenadas": "37°27'50.40\"N 1 10'11.43\"O\"",
+        "productos": [
+          {
+            "pastelería": [
+              {
+                "producto": "borracho",
+                "marca": "Alipende",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 120,
+                  "unidadMedida": "gramos"
+                },
+                "preVenta": 3.55,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": true
+              },
+              {
+                "producto": "tarta de melaza",
+                "marca": "Alipende",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 250,
+                  "unidadMedida": "gramos"
+                },
+                "precioVta": 2.33,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": true
+              }
+            ],
+            "carniceria": [
+              {
+                "producto": "cortillas de cerdo",
+                "marca": "Alipende",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 367,
+                  "unidadMedida": "gramos"
+                },
+                "precioVta": 10.45,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": true
+              },
+              {
+                "producto": "lomo adobado",
+                "marca": "Alipende",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "pesado",
+                  "cantidad": 2.75,
+                  "unidadMedida": "kilos"
+                },
+                "precioVta": 14.37,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Carrefour": [
+      {
+        "direccion": "María Moliner 3",
+        "codigoPostal": 28340,
+        "coordenadas": "30°22'52.41\"N 1 20'8.25\"O\"",
+        "productos": [
+          {
+            "pastelería": [
+              {
+                "producto": "tiramisu",
+                "marca": "Talvi",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 500,
+                  "unidadMedida": "gramos"
+                },
+                "preVenta": 8.77,
+                "perecedero": true,
+                "enOferta": true,
+                "comprado": true
+              },
+              {
+                "producto": "bizcocho de lima",
+                "marca": "Tilva",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": "430",
+                  "unidadMedida": "gramos"
+                },
+                "precioVta": 7.13,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": false
+              }
+            ],
+            "carniceria": [
+              {
+                "producto": "lacon",
+                "marca": "Tilva",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "envasado",
+                  "cantidad": 190,
+                  "unidadMedida": "gramos"
+                },
+                "precioVta": 3.45,
+                "perecedero": true,
+                "enOferta": true,
+                "comprado": true
+              },
+              {
+                "producto": "solomillo",
+                "marca": "Tilva",
+                "informacion": {
+                  "unidades": 1,
+                  "fresco": true,
+                  "formato": "pesado",
+                  "cantidad": 2.55,
+                  "unidadMedida": "kilos"
+                },
+                "precioVta": 18.11,
+                "perecedero": true,
+                "enOferta": false,
+                "comprado": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+}
